@@ -5,7 +5,7 @@ blocks:
     text: >
       Just rebuilt my site with tina.io, not quite sure what I'll do with it
       just yet but I'l be verified on mastodon with it :)[
-      ](https://androiddev.social/@Aniket " ")\
+      ](https://androiddev.social/@Aniket "​")\
 
       [https://androiddev.social/web/@Aniket](https://androiddev.social/web/@Aniket)
     actions:
