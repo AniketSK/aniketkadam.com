@@ -17,7 +17,7 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/a.png
+      src: ''
       alt: ''
     color: default
     _template: hero
